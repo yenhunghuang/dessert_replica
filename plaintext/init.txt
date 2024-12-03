@@ -1,0 +1,21 @@
+project-root/
+├── backend/
+│   ├── controllers/
+│   │   └── dessertController.js
+│   ├── models/
+│   │   └── Dessert.js
+│   ├── routes/
+│   │   └── dessertRoutes.js
+│   ├── server.js
+│   └── package.json
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── UploadForm.jsx
+│   │   ├── pages/
+│   │   │   └── HomePage.jsx
+│   │   ├── App.jsx
+│   │   └── index.js
+│   └── package.json
+└── README.md
+
